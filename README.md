@@ -1,7 +1,7 @@
 # Phantomjs-dirty
 
 A [dirty](https://github.com/felixge/node-dirty) key-value database clone for PhantomJS and
-its synchronous CommonJS Filesystem/A IO. Database file are fully compatible between implementations.
+its synchronous CommonJS Filesystem/A IO. Database files are fully compatible between implementations.
 
 ## Warning
 

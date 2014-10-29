@@ -1,0 +1,9 @@
+{
+  "name": "phantomjs-dirty",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "phantomjs": "~1.9.12",
+    "jshint": "~2.5.7"
+  }
+}

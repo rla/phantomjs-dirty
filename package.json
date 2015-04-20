@@ -1,6 +1,20 @@
 {
   "name": "phantomjs-dirty",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "author": {
+    "name": "Raivo Laanemets",
+    "email": "info@rlaanemets.com"
+  },
+  "keywords": [
+    "phantomjs",
+    "dirty",
+    "database"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rla/phantomjs-dirty"
+  },
+  "license": "MIT",
   "main": "index.js",
   "devDependencies": {
     "phantomjs": "~1.9.12",

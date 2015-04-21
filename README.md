@@ -8,12 +8,11 @@ its synchronous CommonJS Filesystem/A IO. Database files are fully compatible be
 Multi-process write usage of the same database file will corrupt it. There are is no file locking
 support in CommonJS Filesystem/A.
 
-## Running tests
+## Installing
 
-For running tests, development dependencies must be installed first.
+The package can be installed from NPM:
 
-    npm install
-    make test
+    npm install phantomjs-dirty
 
 ## Example
 
@@ -29,6 +28,13 @@ For running tests, development dependencies must be installed first.
 
         console.log(key + ': ' + val);
     });
+
+## Running tests
+
+For running tests, development dependencies must be installed first.
+
+    npm install
+    make test
 
 ## License
 
